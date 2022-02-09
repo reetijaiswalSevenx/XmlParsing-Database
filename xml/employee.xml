@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="UTF-8"  standalone="yes"?>
+<employees>
+    <employee>
+        <firstName>Nish</firstName>
+
+        <lastName> Singhania </lastName>
+        <email>nish.r@gmail.com</email>
+        <baseSalary>15500</baseSalary>
+    </employee>
+
+    <employee>
+        <firstName>Dhir</firstName>
+
+        <lastName> Imaan </lastName>
+        <email>naina.tj@gmail.com</email>
+        <baseSalary>14500</baseSalary>
+    </employee>
+</employees>
